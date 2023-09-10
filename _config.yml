@@ -18,8 +18,6 @@ darkmode: false
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: https://www.instagram.com/liam.things_/
-linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
 # googleplus_username: +jekyll
@@ -27,9 +25,9 @@ linkedin_username: jameswgrant
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: notion
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://polished-holiday-2e7.notion.site/127dd88caa9c4d7682ba2322e230df34?pvs=4
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -44,9 +42,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  EMR, ERP 등 여러 시스템과 다양한 개발 환경으로 경험을 쌓았습니다.
+  백엔드부터 프론트엔드 및 모바일까지 개발 및 배포 하였으며 변해가는 환경에서도 능동적인 자세로 적응하여 주어진 업무를 수행할 수 있는 개발자입니다.
 
 content:
   - title: Projects # Title for the section
@@ -105,8 +102,6 @@ content:
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
