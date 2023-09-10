@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: liam-kim87/liam-kim87.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -9,7 +9,6 @@ version: 2
 name: 김슬기
 title: 프론트엔드/백엔드/모바일 개발자
 email: kimslgi563@gmail.com
-phone: 010-4273-4578
 
 # Dark Mode (true/false/never)
 darkmode: never
@@ -27,7 +26,7 @@ darkmode: never
 # Additional icon links
 additional_links:
 - title: notion
-  icon: fas fa-globe
+  icon: images/notion.ico
   url: https://polished-holiday-2e7.notion.site/127dd88caa9c4d7682ba2322e230df34?pvs=4
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -120,8 +119,6 @@ content:
               - 기능 개발 요청에 대한 공통 모듈 개발 및 가이드
               - 개발 결과물 리뷰
               
-          
-
       - layout: left
         title: 오스템임플란트
         link: https://osstem.com/
@@ -137,8 +134,6 @@ content:
             * 개발환경 : FrontEnd, JavaScript
             * 담당역할 :
             * 성과    :  
-
-             
 
   - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
