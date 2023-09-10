@@ -7,8 +7,9 @@ version: 2
 
 # Personal info
 name: 김슬기
-title: 프론트엔드 개발자
+title: 프론트엔드/백엔드/모바일 개발자
 email: kimslgi563@gmail.com
+phone: 010-4273-4578
 
 # Dark Mode (true/false/never)
 darkmode: never
@@ -59,12 +60,30 @@ content:
           ERP 웹서비스 전문기업
         description: | # this will include new lines to allow paragraphs
             1. 조회 UI 사용자 설정화면 개선
+
              • 기간    : 2022.12.01 ~ 2023.08.31
+
              • 인원    :
+
              • 개발환경 : FrontEnd, JavaScript
+
              • 담당역할 :
+
              • 성과    :  
              
+             
+
+  - title: Skils # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: FrontEnd
+        quote: >
+          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
 
   - title: Education # Title for the section
