@@ -27,7 +27,7 @@ instagram_username: liam.things_
 # Additional icon links
 additional_links:
 - title: notion
-  icon: fas fa-globe
+  icon: fas fa-file
   url: https://polished-holiday-2e7.notion.site/127dd88caa9c4d7682ba2322e230df34?pvs=4
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
