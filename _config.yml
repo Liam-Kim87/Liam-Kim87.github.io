@@ -44,8 +44,9 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   EMR, ERP 등 여러 시스템과 다양한 개발 환경으로 경험을 쌓았습니다.
-
   백엔드부터 프론트엔드 및 모바일까지 개발 및 배포 하였으며 변해가는 환경에서도 능동적인 자세로 적응하여 주어진 업무를 수행할 수 있는 개발자입니다.
+
+  개발에 앞서 항상 유지 보수성이 좋고 공통화 할 수 있는 구조를 고민하면서 업무를 진행하고 있습니다.
 
 content:
   - title: Careers # Title for the section
@@ -74,13 +75,22 @@ content:
     content:
       - layout: left
         title: FrontEnd
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          * JavaScript
+          * TypeScript
+          * React, ReactNative
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: left
+        title: BackEnd
+        description: | # this will include new lines to allow paragraphs
+          * C/C++
+          * C#
+          * Node.js
 
+      - layout: left
+        title: Database
+        description: | # this will include new lines to allow paragraphs
+          * MSSQL
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
