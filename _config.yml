@@ -62,13 +62,16 @@ content:
           ERP 웹서비스 전문기업
         description: | # this will include new lines to allow paragraphs
           조회 UI 사용자 설정화면 개선
-            * 기간    : 2022.12.01 ~ 2023.08.31
-            * 인원    : 프론트엔드 2명, 백엔드 1명
-            * 개발환경 : FrontEnd, JavaScript
-            * 담당역할 : 각 설정 컨트롤 UI 추가
-            * 내용    :
+            * 기   간: 2022.12.01 ~ 2023.08.31
+            * 인   원: 프론트엔드 2명, 백엔드 1명
+            * 개발환경: FrontEnd, JavaScript
+            * 담당역할: 각 설정 컨트롤 UI 추가
+            * 내   용:
+
               기존 사용자 설정화면을 사용성 높은 UI로 전환 개발
+
               검색 시점에 검색조건으로 표의 열의 데이터가 생성되는 기능 개발
+              
               그룹 또는 개별로 출력되도록 설정에 따라 표영역의 데이터 처리 개발
 
       - layout: left
