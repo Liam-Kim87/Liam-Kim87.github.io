@@ -44,6 +44,7 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   EMR, ERP 등 여러 시스템과 다양한 개발 환경으로 경험을 쌓았습니다.
+
   백엔드부터 프론트엔드 및 모바일까지 개발 및 배포 하였으며 변해가는 환경에서도 능동적인 자세로 적응하여 주어진 업무를 수행할 수 있는 개발자입니다.
 
 content:
@@ -59,6 +60,7 @@ content:
         quote: >
           ERP 웹서비스 전문기업
         description: | # this will include new lines to allow paragraphs
+            
             1. 조회 UI 사용자 설정화면 개선
 
              • 기간    : 2022.12.01 ~ 2023.08.31
@@ -70,7 +72,7 @@ content:
              • 담당역할 :
 
              • 성과    :  
-             
+
              
 
   - title: Skils # Title for the section
