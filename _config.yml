@@ -96,24 +96,33 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: 선문대학교 
+        caption: 2006.03 ~ 2013.02
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          컴퓨터공학 학사 졸업 (3.44/4.5)
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: left
+        title: 월봉고등학교 
+        caption: 2006.03
+        description: | # this will include new lines to allow paragraphs
+          인문계열 졸업
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  - title: Etc # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 아일랜드 어학연수 
+        caption: 2018.01 ~ 2018.06
+        description: | # this will include new lines to allow paragraphs
+          * Kaplan International Colleage (더블린)
+          * ESL Course 이수 (Upper Intermediate)
+
+      - layout: left
+        title: 필리핀 어학연수
+        caption: 2017.09 ~ 2017.12
+        description: | # this will include new lines to allow paragraphs
+          * SMEAG Global Education (세부)
+          * ESL Course 이수
 
 
 # Footer
