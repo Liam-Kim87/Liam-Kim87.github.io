@@ -74,7 +74,7 @@ content:
               - 검색 시점에 검색조건으로 표의 열의 데이터가 생성되는 기능 개발
               - 그룹 또는 개별로 출력되도록 설정에 따라 표영역의 데이터 처리 개발
 
-          ERP 모바일 개발
+          [ERP 모바일 개발](https://www.notion.so/644ee8f8e6dc4afa96d7b529b2218d4c)
             * 기   간: 2022.01.01 ~ 2023.01.01
             * 인   원: 프론트엔드 2명, 백엔드 1명
             * 개발환경: <mark>FrontEnd</mark>, <mark>TypeScript</mark>, <mark>ReactNative</mark>, <mark>Node.js</mark>
@@ -86,6 +86,41 @@ content:
               - 기존 고정되어 있는 사용자 UI 화면 구성에 사용자화로 구성할 수 있는 기능 개발
               - 추가된 기능을 위한 공통 레이아웃 Component 개발
               - 추가된 공통 Component 에 사용될 각 Control 의 Component 개발
+
+          [출력물 UI 사용자 설정화면 개선](https://www.notion.so/UI-b8909737ba4f4951b83f2c26862b469a)
+            * 기   간: 2020.09.01 ~ 2021.05.01
+            * 인   원: 프론트엔드 2명, 백엔드 1명
+            * 개발환경: <mark>FrontEnd</mark>, <mark>JavaScript</mark>
+            * 담당역할: 
+              - 화면의 각 컨트롤 설정 값에 따른 이벤트 처리
+              - 설정 값에 따른 UI 화면 반영
+            * 내   용:
+              - 새로운 UI 구성의 레이아웃을 개발
+              - 간편 사용을 위한 행 데이터 자동 추가 기능 개발
+
+          [인쇄 UI 공통화면 개선](https://www.notion.so/UI-90534dcf556c4195b8ad2a8bf2209bb2)
+            * 기   간: 2020.08.01 ~ 2023.08.31
+            * 인   원: 프론트엔드 2명, 백엔드 1명
+            * 개발환경: <mark>FrontEnd</mark>, <mark>JavaScript</mark>
+            * 담당역할: 
+              - 기능을 분석하여 Composite 모듈을 제작
+              - 페이지에 해당 모듈을 적용
+            * 내   용:
+              - 인쇄 출력 화면의 공통 UI 화면 구조 개발
+              - Composite 패턴을 적용하여 기능을 모듈화
+              - 제작된 Composite 모듈을 각 페이지에 적용
+
+          [기능개발 및 유지보수](https://www.notion.so/fdb0d82e75ad43c58438a5b4fbc36ca3)
+            * 기   간: 2019.03.01 ~ 
+            * 인   원: 프론트엔드 1명
+            * 개발환경: <mark>FrontEnd</mark>, <mark>JavaScript</mark>
+            * 담당역할: 
+              - ERP 기능 개발
+              - ERP 오류 수정
+              - 기능 개발 요청에 대한 공통 모듈 개발 및 가이드
+              - 개발 결과물 리뷰
+              
+          
 
       - layout: left
         title: 오스템임플란트
@@ -105,7 +140,7 @@ content:
 
              
 
-  - title: Skils # Title for the section
+  - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
