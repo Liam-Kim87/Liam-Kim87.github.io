@@ -61,7 +61,7 @@ content:
         quote: >
           ERP 웹서비스 전문기업
         description: | # this will include new lines to allow paragraphs
-          * 조회 UI 사용자 설정화면 개선
+          조회 UI 사용자 설정화면 개선
             * 기   간: 2022.12.01 ~ 2023.08.31
             * 인   원: 프론트엔드 2명, 백엔드 1명
             * 개발환경: FrontEnd, JavaScript
@@ -73,6 +73,19 @@ content:
               - 기존 사용자 설정화면을 사용성 높은 UI로 전환 개발
               - 검색 시점에 검색조건으로 표의 열의 데이터가 생성되는 기능 개발
               - 그룹 또는 개별로 출력되도록 설정에 따라 표영역의 데이터 처리 개발
+
+          ERP 모바일 개발
+            * 기   간: 2022.01.01 ~ 2023.01.01
+            * 인   원: 프론트엔드 2명, 백엔드 1명
+            * 개발환경: FrontEnd, TypeScript, ReactNative, Node.js
+            * 담당역할: 
+              - 사용자화 UI 화면 구조 설계
+              - 레이아웃 Component 개발
+              - 컨트롤 Component 개발
+            * 내   용:
+              - 기존 고정되어 있는 사용자 UI 화면 구성에 사용자화로 구성할 수 있는 기능 개발
+              - 추가된 기능을 위한 공통 레이아웃 Component 개발
+              - 추가된 공통 Component 에 사용될 각 Control 의 Component 개발
 
       - layout: left
         title: 오스템임플란트
