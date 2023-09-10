@@ -63,10 +63,11 @@ content:
         description: | # this will include new lines to allow paragraphs
           조회 UI 사용자 설정화면 개선
             * 기간    : 2022.12.01 ~ 2023.08.31
-            * 인원    :
+            * 인원    : 프론트엔드 2명, 백엔드 1명
             * 개발환경 : FrontEnd, JavaScript
-            * 담당역할 :
-            * 성과    :
+            * 담당역할 : 각 설정 컨트롤 UI 추가
+            * 내용    :
+               ** 테스트
 
       - layout: left
         title: 오스템임플란트
