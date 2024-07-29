@@ -54,6 +54,37 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: 아우토크립트
+        link: https://www.autocrypt.co.kr/
+        sub_title: 과장
+        caption: 23.10.16 ~ 23.11.30
+        quote: >
+          자율주행 전문 보안기업
+        description: | # this will include new lines to allow paragraphs
+          [LGE SDV(Software Defined Vehicle) 과제]
+            * 기   간: 2023.10.16 ~ 2023.11.30
+            * 인   원: 프론트엔드 1명
+            * 개발환경: <mark>FrontEnd</mark>,<mark>Vue.js</mark>,<mark>Quasar</mark>
+            * 담당역할: 
+              - 전체 적인 UI 설계 및 개발 
+              - 데이터 파싱 및 UI 처리 
+            * 내   용:
+              - 탐지된 기록을 조회하여 vSOC 프로그램에 출력 및 데이터 제공
+
+          [Network 정책 관리]
+            * 기   간: 2024.01.01 ~
+            * 인   원: 개발 3명
+            * 개발환경: <mark>FrontEnd</mark>,<mark>Vue.js</mark>,<mark>Node</mark>,<mark>Express</mark>,<mark>Prisma</mark>
+            * 담당역할: 
+              - Snort 모듈 관련 DB 데이터 스키마 설계 
+              - Snort 모듈 관련 UI 설계
+              - Snort 모듈 관련 서비스 개발 및 UI 개발
+            * 내   용:
+              - Snort 모듈 기능 전체적인 Front 및 Back 개발 
+           
+
+
+      - layout: left
         title: 이카운트
         link: https://www.ecount.com/kr/
         # link_text: boringcompany.com
@@ -120,6 +151,8 @@ content:
               - ERP 오류 수정
               - 기능 개발 요청에 대한 공통 모듈 개발 및 가이드
               - 개발 결과물 리뷰
+
+
 
       - layout: left
         title: 오스템임플란트
