@@ -57,10 +57,30 @@ content:
         title: 아우토크립트
         link: https://www.autocrypt.co.kr/
         sub_title: 과장
-        caption: 23.10.16 ~ 23.11.30
+        caption: 23.10.16 ~ 재직중
         quote: >
           자율주행 전문 보안기업
         description: | # this will include new lines to allow paragraphs
+          [SLM (Software Lifecycle Management) 소프트웨어 주기 관리]
+            * 기   간: 2024.08.12 ~
+            * 인   원: 개발 2명
+            * 개발환경: <mark>FrontEnd</mark>,<mark>BackEnd</mark>,<mark>Vue.js</mark>,<mark>NestJS</mark>,<mark>PostgreSQL</mark>,<mark>Docker</mark> 
+            * 담당역할: 
+              - SLM FrontEnd 설계 및 개발
+              - SLM BackEnd 설계 및 개발 
+            * 내   용:
+
+          [Network 정책 관리]
+            * 기   간: 2024.01.01 ~ 2024.03.01
+            * 인   원: 개발 3명
+            * 개발환경: <mark>FrontEnd</mark>,<mark>Vue.js</mark>,<mark>Node</mark>,<mark>Express</mark>,<mark>Prisma</mark>
+            * 담당역할: 
+              - Snort 모듈 관련 DB 데이터 스키마 설계 
+              - Snort 모듈 관련 UI 설계
+              - Snort 모듈 관련 서비스 개발 및 UI 개발
+            * 내   용:
+              - Snort 모듈 기능 전체적인 Front 및 Back 개발 
+
           [LGE SDV(Software Defined Vehicle) 과제]
             * 기   간: 2023.10.16 ~ 2023.11.30
             * 인   원: 프론트엔드 1명
@@ -71,29 +91,17 @@ content:
             * 내   용:
               - 탐지된 기록을 조회하여 vSOC 프로그램에 출력 및 데이터 제공
 
-          [Network 정책 관리]
-            * 기   간: 2024.01.01 ~
-            * 인   원: 개발 3명
-            * 개발환경: <mark>FrontEnd</mark>,<mark>Vue.js</mark>,<mark>Node</mark>,<mark>Express</mark>,<mark>Prisma</mark>
-            * 담당역할: 
-              - Snort 모듈 관련 DB 데이터 스키마 설계 
-              - Snort 모듈 관련 UI 설계
-              - Snort 모듈 관련 서비스 개발 및 UI 개발
-            * 내   용:
-              - Snort 모듈 기능 전체적인 Front 및 Back 개발 
+          
            
-
-
       - layout: left
         title: 이카운트
         link: https://www.ecount.com/kr/
-        # link_text: boringcompany.com
         sub_title: 책임
         caption: 2019.03 ~ 2023.09.27
         quote: >
           ERP 웹서비스 전문기업
-        description: | # this will include new lines to allow paragraphs
-          [조회 UI 사용자 설정화면 개선](https://www.notion.so/UI-6255265fc52d4f95abf25909b6451dd9)
+        description: | 
+          [조회 UI 사용자 설정화면 개선](https://www.notion.so/UI-6255265fc52d4f95abf25909b6451dd9) 링크 클릭시 상세 내용으로 이동합니다.
             * 기   간: 2022.12.01 ~ 2023.08.31
             * 인   원: 프론트엔드 2명, 백엔드 1명
             * 개발환경: <mark>FrontEnd</mark>,<mark>JavaScript</mark>
@@ -224,17 +232,22 @@ content:
           * JavaScript
           * TypeScript
           * React, ReactNative
+          * Vue.js
 
       - layout: left
         title: BackEnd
         description: | # this will include new lines to allow paragraphs
+          * NestJS
+          * Node.js
+          * Express
+          * Electron
           * C/C++
           * C#
-          * Node.js
 
       - layout: left
         title: Database
         description: | # this will include new lines to allow paragraphs
+          * PostgreSQL
           * MSSQL
 
   - title: Education # Title for the section
