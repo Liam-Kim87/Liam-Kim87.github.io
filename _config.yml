@@ -26,9 +26,9 @@ instagram_username: liam.things_
 
 # Additional icon links
 additional_links:
-- title: notion
-  icon: fas fa-file
-  url: https://polished-holiday-2e7.notion.site/127dd88caa9c4d7682ba2322e230df34?pvs=4
+  - title: notion
+    icon: fas fa-file
+    url: https://polished-holiday-2e7.notion.site/127dd88caa9c4d7682ba2322e230df34?pvs=4
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -61,16 +61,20 @@ content:
         quote: >
           자율주행 전문 보안기업
         description: | # this will include new lines to allow paragraphs
-          [SLM (Software Lifecycle Management) 소프트웨어 주기 관리]
+          [SLM (Software Lifecycle Management) 소프트웨어 주기 관리 🔗](https://www.notion.so/SLM-Software-Lifecycle-Management-196b22e5c39f803c8bfbdf4cc29bcce5?pvs=4)
             * 기   간: 2024.08.12 ~
             * 인   원: 개발 2명
-            * 개발환경: <mark>FrontEnd</mark>,<mark>BackEnd</mark>,<mark>Vue.js</mark>,<mark>NestJS</mark>,<mark>PostgreSQL</mark>,<mark>Docker</mark> 
+            * 개발환경: <mark>FrontEnd</mark>,<mark>BackEnd</mark>,<mark>Vue.js</mark>,<mark>NestJS</mark>,<mark>PostgreSQL</mark>,<mark>Docker</mark>,<mark>OAuth2.0</mark> 
             * 담당역할: 
               - SLM FrontEnd 설계 및 개발
               - SLM BackEnd 설계 및 개발 
             * 내   용:
+              - OAuth2.0 인증 적용 및 인증/데이터 서버 설계, 로그인 기능 구현 
+              - Vue.js 3 기반 레이아웃 설계 및 공통 Component 개발을 통한 UI 구축 
+              - 데이터 분류, 상태 관리 및 검색 기능 설계 및 구현
+              - 사용자별 권한 관리 기능 설계 및 적용 
 
-          [Network 정책 관리]
+          [Network 정책 관리 🔗](https://www.notion.so/Network-238124146225463ca57504a76db5aa45?pvs=4)
             * 기   간: 2024.01.01 ~ 2024.03.01
             * 인   원: 개발 3명
             * 개발환경: <mark>FrontEnd</mark>,<mark>Vue.js</mark>,<mark>Node</mark>,<mark>Express</mark>,<mark>Prisma</mark>
@@ -81,7 +85,7 @@ content:
             * 내   용:
               - Snort 모듈 기능 전체적인 Front 및 Back 개발 
 
-          [LGE SDV(Software Defined Vehicle) 과제]
+          [LGE SDV(Software Defined Vehicle) 과제 🔗](https://www.notion.so/LGE-SDV-Software-Defined-Vehicle-6c17dbdc4a624906bb1bf845303d6ac4?pvs=4)
             * 기   간: 2023.10.16 ~ 2023.11.30
             * 인   원: 프론트엔드 1명
             * 개발환경: <mark>FrontEnd</mark>,<mark>Vue.js</mark>,<mark>Quasar</mark>
@@ -91,8 +95,6 @@ content:
             * 내   용:
               - 탐지된 기록을 조회하여 vSOC 프로그램에 출력 및 데이터 제공
 
-          
-           
       - layout: left
         title: 이카운트
         link: https://www.ecount.com/kr/
@@ -100,7 +102,7 @@ content:
         caption: 2019.03 ~ 2023.09.27
         quote: >
           ERP 웹서비스 전문기업
-        description: | 
+        description: |
           [조회 UI 사용자 설정화면 개선 🔗](https://www.notion.so/UI-6255265fc52d4f95abf25909b6451dd9)
             * 기   간: 2022.12.01 ~ 2023.08.31
             * 인   원: 프론트엔드 2명, 백엔드 1명
@@ -114,7 +116,7 @@ content:
               - 검색 시점에 검색조건으로 표의 열의 데이터가 생성되는 기능 개발
               - 그룹 또는 개별로 출력되도록 설정에 따라 표 영역의 데이터 처리 개발
 
-          [ERP 모바일 개발](https://www.notion.so/644ee8f8e6dc4afa96d7b529b2218d4c)
+          [ERP 모바일 개발 🔗](https://www.notion.so/644ee8f8e6dc4afa96d7b529b2218d4c)
             * 기   간: 2022.01.01 ~ 2023.01.01
             * 인   원: 프론트엔드 2명, 백엔드 1명
             * 개발환경: <mark>FrontEnd</mark>,<mark>TypeScript</mark>,<mark>ReactNative</mark>,<mark>Node.js</mark>
@@ -127,7 +129,7 @@ content:
               - 추가된 기능을 위한 공통 레이아웃 Component 개발
               - 추가된 공통 Component 에 사용될 각 컨트롤의 Component 개발
 
-          [출력 UI 사용자 설정화면 개선](https://www.notion.so/UI-b8909737ba4f4951b83f2c26862b469a)
+          [출력 UI 사용자 설정화면 개선 🔗](https://www.notion.so/UI-b8909737ba4f4951b83f2c26862b469a)
             * 기   간: 2020.09.01 ~ 2021.05.01
             * 인   원: 프론트엔드 2명, 백엔드 1명
             * 개발환경: <mark>FrontEnd</mark>,<mark>JavaScript</mark>
@@ -138,7 +140,7 @@ content:
               - 새로운 UI 구성의 레이아웃을 개발
               - 간편 사용을 위한 행 데이터 자동 추가 기능 개발
 
-          [인쇄 UI 공통화면 개선](https://www.notion.so/UI-90534dcf556c4195b8ad2a8bf2209bb2)
+          [인쇄 UI 공통화면 개선 🔗](https://www.notion.so/UI-90534dcf556c4195b8ad2a8bf2209bb2)
             * 기   간: 2020.08.01 ~ 2023.08.31
             * 인   원: 프론트엔드 2명, 백엔드 1명
             * 개발환경: <mark>FrontEnd</mark>,<mark>JavaScript</mark>
@@ -150,7 +152,7 @@ content:
               - Composite 패턴을 적용하여 기능을 모듈화
               - 제작된 Composite 모듈을 각 페이지에 적용
 
-          [기능개발 및 유지보수](https://www.notion.so/fdb0d82e75ad43c58438a5b4fbc36ca3)
+          [기능개발 및 유지보수 🔗](https://www.notion.so/fdb0d82e75ad43c58438a5b4fbc36ca3)
             * 기   간: 2019.03.01 ~ 
             * 인   원: 프론트엔드 1명
             * 개발환경: <mark>FrontEnd</mark>,<mark>JavaScript</mark>
@@ -159,8 +161,6 @@ content:
               - ERP 오류 수정
               - 기능 개발 요청에 대한 공통 모듈 개발 및 가이드
               - 개발 결과물 리뷰
-
-
 
       - layout: left
         title: 오스템임플란트
@@ -171,7 +171,7 @@ content:
         quote: >
           EMR 전자차트 응용프로그램
         description: | # this will include new lines to allow paragraphs
-          [EMR C# 전환 개발](https://www.notion.so/EMR-C-ee9efd1d7d6a4506a23eb87f8cb253bb)
+          [EMR C# 전환 개발 🔗](https://www.notion.so/EMR-C-ee9efd1d7d6a4506a23eb87f8cb253bb)
             * 기   간: 2016.04.01 ~ 2017.07.01 
             * 인   원: 프론트/백엔드 5명
             * 개발환경: <mark>FrontEnd</mark>,<mark>BackEnd</mark>,<mark>C#</mark>,<mark>WPF</mark>,<mark>WCF</mark>,<mark>MSSQL</mark>
@@ -182,7 +182,7 @@ content:
             * 내   용:
               - 기존 C/C++ 로 개발되어 있는 EMR 을 .Net 개발환경으로 전환
 
-          [라이브 업데이트 개발](https://www.notion.so/0eab6b5f1d104a23b531db118949c42c)
+          [라이브 업데이트 개발 🔗](https://www.notion.so/0eab6b5f1d104a23b531db118949c42c)
             * 기   간: 2016.01.01 ~ 2016.07.01 
             * 인   원: 프론트/백엔드 1명
             * 개발환경: <mark>FrontEnd</mark>,<mark>BackEnd</mark>,<mark>C</mark>,<mark>C++</mark>,<mark>COM</mark>,<mark>ATL</mark>,<mark>WTL</mark>,<mark>MSSQL</mark>
@@ -192,7 +192,7 @@ content:
               - 모듈, 데이터베이스 배포를 위한 업데이트 프로그램 개발
               - 업데이트를 위한 사이클을 나누어 단계적으로 진행되도록 설계
 
-          [CRM 개발](https://www.notion.so/CRM-7333d5a7f036437eb0f5fb4eb9aeb507)
+          [CRM 개발 🔗](https://www.notion.so/CRM-7333d5a7f036437eb0f5fb4eb9aeb507)
             * 기   간: 2015.04.01 ~ 2015.06.01 
             * 인   원: 프론트/백엔드 1명
             * 개발환경: <mark>FrontEnd</mark>,<mark>BackEnd</mark>,<mark>C</mark>,<mark>C++</mark>,<mark>COM</mark>,<mark>ATL</mark>,<mark>WTL</mark>,<mark>MSSQL</mark>
@@ -203,7 +203,7 @@ content:
             * 내   용:
               - CRM 기능 도입 및 기능 개발
 
-          [도로명 주소 기능 개발](https://www.notion.so/2369196c23bb4cc69acb621f70e6b775)
+          [도로명 주소 기능 개발 🔗](https://www.notion.so/2369196c23bb4cc69acb621f70e6b775)
             * 기   간: 2013.10.01 ~ 2013.11.01 
             * 인   원: 프론트/백엔드 1명
             * 개발환경: <mark>FrontEnd</mark>,<mark>BackEnd</mark>,<mark>C</mark>,<mark>C++</mark>,<mark>COM</mark>,<mark>ATL</mark>,<mark>WTL</mark>,<mark>MSSQL</mark>
@@ -214,7 +214,7 @@ content:
             * 내   용:
               - CRM 기능 도입 및 기능 개발
 
-          [EMR 기능 개발 및 유지보수](https://www.notion.so/EMR-c06dc5e05a01491ea16da1edc75a9fce)
+          [EMR 기능 개발 및 유지보수 🔗](https://www.notion.so/EMR-c06dc5e05a01491ea16da1edc75a9fce)
             * 기   간: 2013.09.01 ~ 2017.07.01 
             * 인   원: 프론트/백엔드 5명
             * 개발환경: <mark>FrontEnd</mark>,<mark>BackEnd</mark>,<mark>C</mark>,<mark>C++</mark>,<mark>COM</mark>,<mark>ATL</mark>,<mark>WTL</mark>,<mark>MSSQL</mark>
@@ -254,13 +254,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 선문대학교 
+        title: 선문대학교
         caption: 2006.03 ~ 2013.02
         description: | # this will include new lines to allow paragraphs
           컴퓨터공학 학사 졸업 (3.44/4.5)
 
       - layout: left
-        title: 월봉고등학교 
+        title: 월봉고등학교
         caption: 2006.03
         description: | # this will include new lines to allow paragraphs
           인문계열 졸업
@@ -269,7 +269,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 아일랜드 어학연수 
+        title: 아일랜드 어학연수
         caption: 2018.01 ~ 2018.06
         description: | # this will include new lines to allow paragraphs
           * Kaplan International Colleage (더블린)
@@ -296,7 +296,6 @@ content:
           * Kinect 를 이용한 모션캡쳐 프로그램 프로젝트 진행하여 교육 수료
           * 사용자 모션 정보를 생성하여 3D 그래픽으로 출력하는 프로그램
 
-
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
@@ -309,4 +308,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
